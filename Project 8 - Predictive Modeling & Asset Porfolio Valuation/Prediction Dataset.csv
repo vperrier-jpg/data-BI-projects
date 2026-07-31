@@ -1,0 +1,276 @@
+﻿adresse_numero;adresse_nom_voie;code_postal;code_commune;nom_commune;surface_carrez;code_type_local;type_local;surface_reelle_bati;nombre_pieces_principales;longitude;latitude; valeur_fonciere_predite 
+127;RUE SAINT-DENIS;75001;75101;Paris 1er Arrondissement;16.41;2;Appartement;25;1;2.349593;48.863227;€431 444,35
+62;RUE NOTRE-DAME DE NAZARETH;75003;75103;Paris 3e Arrondissement;20.47;2;Appartement;22;1;2.356977;48.867907;€368 861,39
+62;RUE DE TURENNE;75003;75103;Paris 3e Arrondissement;64.48;2;Appartement;65;3;2.364855;48.859318;€827 086,36
+32;AV GEORGE V;75008;75108;Paris 8e Arrondissement;63.29;2;Appartement;74;2;2.301586;48.868893;€878 984,85
+152;BD HAUSSMANN;75008;75108;Paris 8e Arrondissement;20.58;2;Appartement;22;1;2.311643;48.87549;€324 852,33
+152;BD HAUSSMANN;75008;75108;Paris 8e Arrondissement;33.4;2;Appartement;35;1;2.311643;48.87549;€463 385,46
+52;RUE DES GRAVILLIERS;75003;75103;Paris 3e Arrondissement;21.35;2;Appartement;24;2;2.355637;48.864366;€390 174,18
+208;RUE SAINT MAUR;75010;75110;Paris 10e Arrondissement;54.69;2;Appartement;60;3;2.371885;48.873209;€642 454,13
+142;RUE DE COURCELLES;75017;75117;Paris 17e Arrondissement;9.3;2;Appartement;11;1;2.300373;48.882505;€139 736,78
+52;RUE LAMARCK;75018;75118;Paris 18e Arrondissement;12.88;2;Appartement;13;1;2.342134;48.889431;€141 906,87
+142;RUE LEGENDRE;75017;75117;Paris 17e Arrondissement;26.47;2;Appartement;28;2;2.323781;48.889631;€320 895,49
+121;RUE MARCADET;75018;75118;Paris 18e Arrondissement;17.88;2;Appartement;19;1;2.341905;48.89111;€205 845,24
+212;RUE DU FBG ST MARTIN;75010;75110;Paris 10e Arrondissement;43.08;2;Appartement;45;3;2.364077;48.879554;€482 608,21
+102;RUE DOUDEAUVILLE;75018;75118;Paris 18e Arrondissement;28.14;2;Appartement;35;2;2.348505;48.888628;€376 347,55
+230;RUE DU FAUBOURG SAINT HONORE;75008;75108;Paris 8e Arrondissement;22.85;2;Appartement;23;1;2.303375;48.876388;€335 508,73
+212;BD DE CHARONNE;75020;75120;Paris 20e Arrondissement;99.1;2;Appartement;102;5;2.390478;48.8585;€1 064 395,65
+124;RUE VIEILLE DU TEMPLE;75003;75103;Paris 3e Arrondissement;86.75;2;Appartement;93;5;2.363922;48.861518;€1 125 465,41
+212;RUE LA FAYETTE;75010;75110;Paris 10e Arrondissement;39.02;2;Appartement;40;2;2.367029;48.881696;€429 326,24
+72;BD DE LA VILLETTE;75019;75119;Paris 19e Arrondissement;94.13;2;Appartement;96;4;2.373697;48.87595;€983 405,50
+42;RUE MANIN;75019;75119;Paris 19e Arrondissement;38.31;2;Appartement;39;2;2.391776;48.884194;€375 991,00
+42;RUE ORDENER;75018;75118;Paris 18e Arrondissement;34.66;2;Appartement;44;3;2.350114;48.891604;€472 255,10
+72;RUE DE CLERY;75002;75102;Paris 2e Arrondissement;39.46;2;Appartement;44;2;2.349692;48.868913;€561 095,84
+72;RUE CARDINET;75017;75117;Paris 17e Arrondissement;5.16;2;Appartement;11;1;2.308461;48.883646;€139 736,78
+52;RUE LEPIC;75018;75118;Paris 18e Arrondissement;40.12;2;Appartement;48;2;2.334354;48.886508;€514 880,68
+32;RUE DES ENVIERGES;75020;75120;Paris 20e Arrondissement;15.89;2;Appartement;16;1;2.387518;48.872036;€147 945,71
+212;RUE MARCADET;75018;75118;Paris 18e Arrondissement;42.1;2;Appartement;46;2;2.33375;48.891949;€493 567,89
+32;PL ST FERDINAND;75017;75117;Paris 17e Arrondissement;72.03;2;Appartement;74;3;2.287636;48.87817;€811 089,64
+52;RUE SAUSSURE;75017;75117;Paris 17e Arrondissement;67.44;2;Appartement;72;2;2.315342;48.885443;€789 776,86
+62;RUE DE CLICHY;75009;75109;Paris 9e Arrondissement;44.05;2;Appartement;60;3;2.328714;48.881726;€679 637,25
+92;RUE DU FBG SAINT DENIS;75010;75110;Paris 10e Arrondissement;15.9;2;Appartement;16;1;2.355508;48.874192;€173 572,77
+52;RUE CHAMPIONNET;75018;75118;Paris 18e Arrondissement;15.41;2;Appartement;16;1;2.347709;48.895824;€173 876,05
+182;RUE SAINT MAUR;75010;75110;Paris 10e Arrondissement;39.18;2;Appartement;40;3;2.372749;48.871068;€429 326,24
+32;RUE MEDERIC;75017;75117;Paris 17e Arrondissement;53.27;2;Appartement;55;2;2.305174;48.881064;€608 618,15
+229;RUE DU FBG ST MARTIN;75010;75110;Paris 10e Arrondissement;24.22;2;Appartement;25;2;2.36562;48.881997;€269 480,32
+42;RUE DE MIROMESNIL;75008;75108;Paris 8e Arrondissement;96.04;2;Appartement;103;4;2.316046;48.874155;€1 188 020,30
+120;QUAI DE JEMMAPES;75010;75110;Paris 10e Arrondissement;21.38;2;Appartement;22;1;2.364377;48.875051;€237 511,14
+32;RUE LAUGIER;75017;75117;Paris 17e Arrondissement;44.76;2;Appartement;46;2;2.295093;48.881878;€512 710,60
+32;RUE FEUTRIER;75018;75118;Paris 18e Arrondissement;16.01;2;Appartement;20;2;2.345638;48.887111;€216 501,63
+129;RUE DU FBG SAINT DENIS;75010;75110;Paris 10e Arrondissement;21.3;2;Appartement;22;2;2.355757;48.877203;€237 511,14
+123;RUE D ABOUKIR;75002;75102;Paris 2e Arrondissement;9.14;2;Appartement;13;1;2.350353;48.868914;€230 747,61
+120;RUE VIEILLE DU TEMPLE;75003;75103;Paris 3e Arrondissement;22.0;2;Appartement;25;1;2.363667;48.861308;€400 830,57
+112;RUE MARCADET;75018;75118;Paris 18e Arrondissement;29.52;2;Appartement;32;2;2.342394;48.891428;€344 378,36
+128;RUE PELLEPORT;75020;75120;Paris 20e Arrondissement;37.6;2;Appartement;38;2;2.3997;48.870659;€382 386,39
+72;RUE AMPERE;75017;75117;Paris 17e Arrondissement;11.9;2;Appartement;12;1;2.299099;48.885513;€150 393,18
+42;BD ORNANO;75018;75118;Paris 18e Arrondissement;31.58;2;Appartement;35;2;2.347661;48.894362;€376 347,55
+32;RUE DE SAMBRE ET MEUSE;75010;75110;Paris 10e Arrondissement;29.01;2;Appartement;32;2;2.371845;48.874587;€344 075,08
+32;RUE D HAUTEVILLE;75010;75110;Paris 10e Arrondissement;20.83;2;Appartement;21;1;2.350732;48.872967;€226 854,74
+32;RUE MEDERIC;75017;75117;Paris 17e Arrondissement;24.07;2;Appartement;48;2;2.305174;48.881064;€534 023,38
+42;RUE ALPHONSE PENAUD;75020;75120;Paris 20e Arrondissement;25.02;2;Appartement;26;2;2.406479;48.868956;€254 509,66
+125;RUE CHAMPIONNET;75018;75118;Paris 18e Arrondissement;11.77;2;Appartement;15;1;2.3379;48.895049;€163 219,66
+122;BD HAUSSMANN;75008;75108;Paris 8e Arrondissement;37.53;2;Appartement;42;2;2.31812;48.875212;€537 980,22
+52;RUE NOTRE-DAME DE LORETTE;75009;75109;Paris 9e Arrondissement;104.46;2;Appartement;105;3;2.336233;48.879819;€1 159 175,01
+128;RUE DU FBG ST MARTIN;75010;75110;Paris 10e Arrondissement;23.72;2;Appartement;25;2;2.358963;48.874381;€269 480,32
+230;RUE MARCADET;75018;75118;Paris 18e Arrondissement;12.96;2;Appartement;13;1;2.33174;48.892372;€141 906,87
+120;AV DE CLICHY;75017;75117;Paris 17e Arrondissement;37.96;2;Appartement;39;2;2.321297;48.890295;€438 115,83
+32;RUE D ABOUKIR;75002;75102;Paris 2e Arrondissement;58.0;2;Appartement;61;2;2.344855;48.866874;€742 254,55
+32;RUE DE LANCRY;75010;75110;Paris 10e Arrondissement;41.15;2;Appartement;42;2;2.361688;48.870927;€450 639,03
+112;RUE DAMREMONT;75018;75118;Paris 18e Arrondissement;53.39;2;Appartement;57;3;2.336974;48.894239;€610 788,23
+52;RUE DE SAINTONGE;75003;75103;Paris 3e Arrondissement;33.21;2;Appartement;39;1;2.364117;48.862946;€550 020,10
+32;RUE FEUTRIER;75018;75118;Paris 18e Arrondissement;40.36;2;Appartement;45;2;2.345638;48.887111;€482 911,49
+62;RUE MESLAY;75003;75103;Paris 3e Arrondissement;14.7;2;Appartement;15;1;2.355668;48.868684;€294 266,63
+32;RUE BERNARD BUFFET;75017;75117;Paris 17e Arrondissement;71.5;2;Appartement;72;3;2.315014;48.891595;€789 776,86
+92;RUE SAINT-LAZARE;75009;75109;Paris 9e Arrondissement;35.7;2;Appartement;37;1;2.328194;48.876283;€434 540,18
+42;RUE MESLAY;75003;75103;Paris 3e Arrondissement;56.8;2;Appartement;57;3;2.357818;48.868325;€741 835,20
+112;RUE DE BELLEVILLE;75020;75120;Paris 20e Arrondissement;38.61;2;Appartement;40;2;2.3876;48.87429;€403 699,18
+82;RUE CHAMPIONNET;75018;75118;Paris 18e Arrondissement;24.27;2;Appartement;26;2;2.343696;48.895968;€280 440,00
+52;RUE DAMREMONT;75018;75118;Paris 18e Arrondissement;41.65;2;Appartement;42;2;2.334548;48.890213;€450 942,31
+62;RUE DE TURENNE;75003;75103;Paris 3e Arrondissement;20.94;2;Appartement;22;1;2.364855;48.859318;€368 861,39
+52;RUE POLONCEAU;75018;75118;Paris 18e Arrondissement;31.61;2;Appartement;33;2;2.350639;48.886093;€355 034,76
+92;RUE DE LA VILLETTE;75019;75119;Paris 19e Arrondissement;10.49;2;Appartement;17;1;2.388442;48.879075;€141 550,32
+52;RUE VOLTA;75003;75103;Paris 3e Arrondissement;37.85;2;Appartement;38;1;2.358323;48.866764;€539 363,70
+42;RUE DURANTIN;75018;75118;Paris 18e Arrondissement;36.74;2;Appartement;37;3;2.335193;48.886841;€397 660,34
+32;RUE PIAT;75020;75120;Paris 20e Arrondissement;21.85;2;Appartement;25;2;2.385047;48.872148;€243 853,26
+212;BD DE CHARONNE;75020;75120;Paris 20e Arrondissement;53.88;2;Appartement;54;3;2.390478;48.8585;€552 888,71
+121;RUE DU FBG DU TEMPLE;75010;75110;Paris 10e Arrondissement;14.23;2;Appartement;15;1;2.374573;48.871773;€162 916,37
+123;RUE DU FBG DU TEMPLE;75010;75110;Paris 10e Arrondissement;9.17;2;Appartement;15;1;2.374676;48.871956;€162 916,37
+32;RUE POULET;75018;75118;Paris 18e Arrondissement;36.79;2;Appartement;38;2;2.350854;48.887763;€408 316,73
+32;RUE D ORAN;75018;75118;Paris 18e Arrondissement;25.58;2;Appartement;26;2;2.352244;48.889171;€280 440,00
+229;RUE DU FBG ST MARTIN;75010;75110;Paris 10e Arrondissement;19.36;2;Appartement;23;1;2.36562;48.881997;€248 167,53
+132;BD PEREIRE;75017;75117;Paris 17e Arrondissement;27.3;2;Appartement;50;1;2.295168;48.884335;€555 336,17
+128;RUE DU FBG POISSONNIERE;75010;75110;Paris 10e Arrondissement;64.52;2;Appartement;65;3;2.349938;48.880084;€695 736,10
+120;RUE D AVRON;75020;75120;Paris 20e Arrondissement;20.71;2;Appartement;24;1;2.407875;48.852778;€233 196,87
+42;AV CLAUDE VELLEFAUX;75010;75110;Paris 10e Arrondissement;52.37;2;Appartement;55;3;2.370628;48.874909;€589 172,16
+42;BD ROCHECHOUART;75018;75118;Paris 18e Arrondissement;16.89;2;Appartement;17;1;2.346275;48.883636;€184 532,45
+52;RUE VOLTA;75003;75103;Paris 3e Arrondissement;22.51;2;Appartement;26;1;2.358323;48.866764;€411 486,97
+32;RUE DU FBG ST MARTIN;75010;75110;Paris 10e Arrondissement;122.06;2;Appartement;131;3;2.356675;48.869966;€1 399 058,15
+62;RUE DE CLICHY;75009;75109;Paris 9e Arrondissement;55.48;2;Appartement;58;3;2.328714;48.881726;€658 324,46
+124;RUE DE MENILMONTANT;75020;75120;Paris 20e Arrondissement;34.47;2;Appartement;35;2;2.395502;48.869884;€350 417,21
+42;RUE CHAPON;75003;75103;Paris 3e Arrondissement;24.98;2;Appartement;29;2;2.354609;48.864028;€443 456,15
+52;RUE LETORT;75018;75118;Paris 18e Arrondissement;16.48;2;Appartement;19;1;2.344573;48.896628;€205 845,24
+126;RUE LA FAYETTE;75010;75110;Paris 10e Arrondissement;38.11;2;Appartement;42;3;2.353035;48.878035;€450 639,03
+62;RUE DE TURENNE;75003;75103;Paris 3e Arrondissement;11.63;2;Appartement;12;1;2.364855;48.859318;€262 297,44
+62;AV DE FLANDRE;75019;75119;Paris 19e Arrondissement;85.03;2;Appartement;86;4;2.374327;48.888132;€876 841,55
+62;RUE DE CLERY;75002;75102;Paris 2e Arrondissement;35.43;2;Appartement;37;2;2.348798;48.868579;€486 501,08
+42;RUE ORFILA;75020;75120;Paris 20e Arrondissement;93.33;2;Appartement;95;4;2.3967;48.866231;€989 800,89
+42;RUE LAUGIER;75017;75117;Paris 17e Arrondissement;50.81;2;Appartement;53;2;2.294994;48.882689;€587 305,36
+52;RUE DU FBOURG MONTMARTRE;75009;75109;Paris 9e Arrondissement;80.09;2;Appartement;114;5;2.34119;48.875375;€1 255 082,56
+82;RUE DE ROMAINVILLE;75019;75119;Paris 19e Arrondissement;55.9;2;Appartement;57;2;2.404113;48.876813;€567 806,11
+82;RUE D HAUTEVILLE;75010;75110;Paris 10e Arrondissement;132.06;2;Appartement;139;4;2.351501;48.876179;€1 484 309,30
+82;RUE DOUDEAUVILLE;75018;75118;Paris 18e Arrondissement;43.44;2;Appartement;46;1;2.350473;48.888673;€493 567,89
+32;RUE DE MONTMORENCY;75003;75103;Paris 3e Arrondissement;36.07;2;Appartement;40;1;2.354382;48.86338;€560 676,49
+127;RUE D ABOUKIR;75002;75102;Paris 2e Arrondissement;26.13;2;Appartement;27;2;2.350633;48.86902;€379 937,13
+126;AV DE FLANDRE;75019;75119;Paris 19e Arrondissement;38.03;2;Appartement;39;2;2.38007;48.892628;€375 991,00
+42;RUE DE L ECHIQUIER;75010;75110;Paris 10e Arrondissement;61.96;2;Appartement;64;3;2.348723;48.872023;€685 079,71
+102;RUE SAINT-LAZARE;75009;75109;Paris 9e Arrondissement;24.12;2;Appartement;25;1;2.327338;48.875816;€306 663,44
+72;RUE SAUSSURE;75017;75117;Paris 17e Arrondissement;29.8;2;Appartement;30;2;2.314344;48.886274;€342 208,28
+204;AV JEAN JAURES;75019;75119;Paris 19e Arrondissement;22.87;2;Appartement;33;2;2.392758;48.887889;€312 052,64
+102;BD DE LA VILLETTE;75019;75119;Paris 19e Arrondissement;34.02;2;Appartement;35;2;2.372137;48.877073;€333 365,42
+32;RUE POULET;75018;75118;Paris 18e Arrondissement;31.01;2;Appartement;32;2;2.350854;48.887763;€344 378,36
+82;AV DE FLANDRE;75019;75119;Paris 19e Arrondissement;20.13;2;Appartement;28;1;2.375954;48.889462;€258 770,66
+82;AV DE FLANDRE;75019;75119;Paris 19e Arrondissement;20.32;2;Appartement;30;2;2.375954;48.889462;€280 083,45
+212;BD DE CHARONNE;75020;75120;Paris 20e Arrondissement;42.62;2;Appartement;45;2;2.390478;48.8585;€456 981,16
+62;RUE CHAPON;75003;75103;Paris 3e Arrondissement;21.36;2;Appartement;25;1;2.353517;48.864291;€400 830,57
+32;RUE MEDERIC;75017;75117;Paris 17e Arrondissement;24.13;2;Appartement;27;1;2.305174;48.881064;€310 239,10
+42;RUE MANIN;75019;75119;Paris 19e Arrondissement;31.96;2;Appartement;32;1;2.391776;48.884194;€301 396,24
+42;RUE DES GRAVILLIERS;75003;75103;Paris 3e Arrondissement;77.12;2;Appartement;78;2;2.356099;48.864154;€965 619,49
+142;RUE LA FAYETTE;75010;75110;Paris 10e Arrondissement;24.32;2;Appartement;45;2;2.354912;48.87857;€482 608,21
+212;RUE MARCADET;75018;75118;Paris 18e Arrondissement;49.7;2;Appartement;53;2;2.33375;48.891949;€568 162,65
+226;AV DU MAINE;75014;75114;Paris 14e Arrondissement;44.53;2;Appartement;46;2;2.325697;48.828574;€500 972,74
+32;RUE DES LYONNAIS;75005;75105;Paris 5e Arrondissement;21.03;2;Appartement;23;1;2.346098;48.838811;€364 928,19
+129;RUE DE CHARENTON;75012;75112;Paris 12e Arrondissement;51.4;2;Appartement;54;3;2.380791;48.845591;€565 769,62
+205;BD RASPAIL;75014;75114;Paris 14e Arrondissement;83.6;2;Appartement;84;4;2.330308;48.841316;€905 915,74
+72;AV DU GAL MICHEL BIZOT;75012;75112;Paris 12e Arrondissement;36.93;2;Appartement;37;1;2.402786;48.835846;€384 610,91
+72;RUE CROZATIER;75012;75112;Paris 12e Arrondissement;41.94;2;Appartement;42;2;2.379538;48.850046;€437 892,88
+128;RUE AMELOT;75011;75111;Paris 11e Arrondissement;37.34;2;Appartement;38;2;2.367208;48.864539;€429 311,94
+127;RUE SAINT CHARLES;75015;75115;Paris 15e Arrondissement;28.69;2;Appartement;29;1;2.28373;48.844052;€315 132,10
+123;RUE DU CHEMIN VERT;75011;75111;Paris 11e Arrondissement;64.8;2;Appartement;65;4;2.383507;48.862136;€717 034,60
+128;BD VOLTAIRE;75011;75111;Paris 11e Arrondissement;54.45;2;Appartement;56;2;2.378465;48.858101;€621 127,04
+102;RUE DE REUILLY;75012;75112;Paris 12e Arrondissement;15.86;2;Appartement;16;1;2.393427;48.84123;€160 826,62
+112;RUE DU CHEMIN VERT;75011;75111;Paris 11e Arrondissement;13.7;2;Appartement;14;1;2.383185;48.861569;€173 558,47
+72;AV DE LA BOURDONNAIS;75007;75107;Paris 7e Arrondissement;37.42;2;Appartement;40;1;2.303858;48.854931;€598 831,55
+124;BD DIDEROT;75012;75112;Paris 12e Arrondissement;52.66;2;Appartement;54;3;2.387875;48.8472;€565 769,62
+252;RUE DE LA CONVENTION;75015;75115;Paris 15e Arrondissement;25.08;2;Appartement;30;2;2.302006;48.835488;€325 788,49
+32;RUE RAYMOND LOSSERAND;75014;75114;Paris 14e Arrondissement;35.74;2;Appartement;44;2;2.320363;48.835542;€479 659,95
+32;RUE DE BUCI;75006;75106;Paris 6e Arrondissement;14.25;2;Appartement;16;1;2.336009;48.853592;€363 464,54
+129;RUE DE LA POMPE;75016;75116;Paris 16e Arrondissement;80.45;2;Appartement;82;3;2.279744;48.866463;€916 672,41
+62;RUE DE L ASSOMPTION;75016;75116;Paris 16e Arrondissement;43.65;2;Appartement;48;3;2.269099;48.854941;€554 354,99
+32;RUE POUCHET;75017;75117;Paris 17e Arrondissement;38.95;2;Appartement;40;2;2.320197;48.893191;€448 772,23
+42;BD GOUVION ST-CYR;75017;75117;Paris 17e Arrondissement;18.73;2;Appartement;20;1;2.286416;48.882739;€235 644,34
+42;BD GOUVION ST-CYR;75017;75117;Paris 17e Arrondissement;19.71;2;Appartement;21;1;2.286416;48.882739;€246 300,73
+125;RUE DE TOCQUEVILLE;75017;75117;Paris 17e Arrondissement;18.02;2;Appartement;19;1;2.304769;48.889229;€224 987,94
+123;RUE DU MONT CENIS;75018;75118;Paris 18e Arrondissement;31.53;2;Appartement;37;2;2.346172;48.896316;€397 660,34
+205;RUE ORDENER;75018;75118;Paris 18e Arrondissement;29.25;2;Appartement;35;2;2.333201;48.893908;€376 347,55
+42;BD ORNANO;75018;75118;Paris 18e Arrondissement;29.51;2;Appartement;33;2;2.347661;48.894362;€355 034,76
+32;RUE PELLEPORT;75020;75120;Paris 20e Arrondissement;26.18;2;Appartement;43;3;2.404274;48.863697;€435 668,37
+32;RUE DES MARAICHERS;75020;75120;Paris 20e Arrondissement;20.5;2;Appartement;25;1;2.407878;48.850054;€243 853,26
+204;RUE DE CRIMEE;75019;75119;Paris 19e Arrondissement;24.22;2;Appartement;27;1;2.375571;48.892174;€248 114,27
+202;RUE DE CRIMEE;75019;75119;Paris 19e Arrondissement;40.36;2;Appartement;42;3;2.375655;48.89194;€407 960,19
+212;BD DE CHARONNE;75020;75120;Paris 20e Arrondissement;43.09;2;Appartement;48;2;2.390478;48.8585;€488 950,34
+126;AV DE FLANDRE;75019;75119;Paris 19e Arrondissement;35.69;2;Appartement;37;2;2.38007;48.892628;€354 678,21
+72;RUE VILLIERS ISLE ADAM;75020;75120;Paris 20e Arrondissement;27.05;2;Appartement;30;2;2.397217;48.867718;€297 135,24
+92;RUE DE LA VILLETTE;75019;75119;Paris 19e Arrondissement;10.8;2;Appartement;14;1;2.388442;48.879075;€109 581,14
+52;RUE TIQUETONNE;75002;75102;Paris 2e Arrondissement;17.29;2;Appartement;30;2;2.346705;48.864861;€411 906,32
+127;RUE D ABOUKIR;75002;75102;Paris 2e Arrondissement;40.55;2;Appartement;41;2;2.350633;48.86902;€529 126,66
+173;RUE SAINT-HONORE;75001;75101;Paris 1er Arrondissement;20.54;4;Local industriel. commercial ou assimilé;21;0;2.333614;48.863771;€474 335,06
+166;RUE DU FAUBOURG SAINT HONORE;75008;75108;Paris 8e Arrondissement;29.75;4;Local industriel. commercial ou assimilé;31;0;2.309351;48.873827;€506 276,17
+12;RUE BERZELIUS;75017;75117;Paris 17e Arrondissement;26.03;4;Local industriel. commercial ou assimilé;31;0;2.318606;48.892508;€438 380,97
+31;AV DE L OPERA;75001;75101;Paris 1er Arrondissement;22.1;4;Local industriel. commercial ou assimilé;26;0;2.333283;48.867434;€527 617,03
+156;RUE DU TEMPLE;75003;75103;Paris 3e Arrondissement;53.2;4;Local industriel. commercial ou assimilé;72;0;2.359558;48.864481;€987 197,41
+16;RUE PIERRE DEMOURS;75017;75117;Paris 17e Arrondissement;236.2;4;Local industriel. commercial ou assimilé;238;0;2.29306;48.880248;€2 644 254,65
+124;RUE DE COURCELLES;75017;75117;Paris 17e Arrondissement;131.81;4;Local industriel. commercial ou assimilé;137;0;2.301699;48.880958;€1 567 958,80
+119;RUE BELLIARD;75018;75118;Paris 18e Arrondissement;48.29;4;Local industriel. commercial ou assimilé;53;0;2.336855;48.896411;€653 678,94
+11;RUE BEAUREGARD;75002;75102;Paris 2e Arrondissement;29.63;4;Local industriel. commercial ou assimilé;30;0;2.349169;48.869419;€497 422,61
+13;RUE DE LA GRANDE TRUANDERIE;75001;75101;Paris 1er Arrondissement;18.63;4;Local industriel. commercial ou assimilé;38;0;2.34901;48.862736;€655 493,77
+31;RUE TRONCHET;75008;75108;Paris 8e Arrondissement;118.98;4;Local industriel. commercial ou assimilé;124;0;2.326235;48.873009;€1 497 320,87
+24;RUE DE SAINT QUENTIN;75010;75110;Paris 10e Arrondissement;46.23;4;Local industriel. commercial ou assimilé;47;0;2.355888;48.87834;€589 437,29
+3;RUE DAMREMONT;75018;75118;Paris 18e Arrondissement;26.86;4;Local industriel. commercial ou assimilé;27;0;2.33245;48.887351;€376 612,68
+106;BD DE COURCELLES;75017;75117;Paris 17e Arrondissement;29.73;4;Local industriel. commercial ou assimilé;50;0;2.301796;48.879181;€640 852,46
+15;RUE HELENE;75017;75117;Paris 17e Arrondissement;26.02;4;Local industriel. commercial ou assimilé;27;0;2.32485;48.886092;€395 755,39
+31;AV MAC MAHON;75017;75117;Paris 17e Arrondissement;13.71;4;Local industriel. commercial ou assimilé;30;0;2.294054;48.877646;€427 724,57
+11;RUE MICHEL LE COMTE;75003;75103;Paris 3e Arrondissement;13.58;4;Local industriel. commercial ou assimilé;14;0;2.356213;48.862043;€369 126,52
+142;RUE DE COURCELLES;75017;75117;Paris 17e Arrondissement;82.38;4;Local industriel. commercial ou assimilé;88;0;2.300373;48.882505;€1 045 795,46
+3;AV BERTIE ALBRECHT;75008;75108;Paris 8e Arrondissement;174.51;4;Local industriel. commercial ou assimilé;175;0;2.300866;48.875363;€2 040 797,00
+1;RUE CLAPEYRON;75008;75108;Paris 8e Arrondissement;14.15;4;Local industriel. commercial ou assimilé;15;0;2.324327;48.88097;€335 773,86
+10;RUE PIERRE FONTAINE;75009;75109;Paris 9e Arrondissement;12.45;4;Local industriel. commercial ou assimilé;27;0;2.334933;48.881106;€413 492,52
+24;RUE PASTOURELLE;75003;75103;Paris 3e Arrondissement;78.84;4;Local industriel. commercial ou assimilé;90;0;2.359534;48.862944;€1 179 012,51
+229;RUE DU FBG ST MARTIN;75010;75110;Paris 10e Arrondissement;43.48;4;Local industriel. commercial ou assimilé;58;0;2.36562;48.881997;€706 657,63
+1;PAS CHOISEUL;75002;75102;Paris 2e Arrondissement;30.1;4;Local industriel. commercial ou assimilé;34;0;2.335139;48.867253;€540 048,19
+125;RUE DE TURENNE;75003;75103;Paris 3e Arrondissement;34.59;4;Local industriel. commercial ou assimilé;35;0;2.36431;48.863859;€592 910,81
+15;RUE CHATEAUBRIAND;75008;75108;Paris 8e Arrondissement;173.6;4;Local industriel. commercial ou assimilé;200;0;2.301134;48.873202;€2 307 206,86
+3;RUE DE VIENNE;75008;75108;Paris 8e Arrondissement;203.17;4;Local industriel. commercial ou assimilé;204;0;2.320998;48.876646;€2 349 832,44
+184;RUE SAINT MAUR;75010;75110;Paris 10e Arrondissement;157.08;4;Local industriel. commercial ou assimilé;160;0;2.372782;48.871216;€1 793 609,88
+13;RUE CHAPON;75003;75103;Paris 3e Arrondissement;198.03;4;Local industriel. commercial ou assimilé;200;0;2.356451;48.863098;€2 351 215,92
+91;RUE JOUFFROY D'ABBANS;75017;75117;Paris 17e Arrondissement;226.7;4;Local industriel. commercial ou assimilé;250;0;2.302358;48.882041;€2 772 131,39
+102;AV DES CHAMPS ELYSEES;75008;75108;Paris 8e Arrondissement;18.91;4;Local industriel. commercial ou assimilé;19;0;2.302407;48.871947;€378 399,44
+3;RUE DAMREMONT;75018;75118;Paris 18e Arrondissement;26.86;4;Local industriel. commercial ou assimilé;27;0;2.33245;48.887351;€376 612,68
+14;RUE VICTOR MASSE;75009;75109;Paris 9e Arrondissement;16.49;4;Local industriel. commercial ou assimilé;20;0;2.339118;48.880742;€338 897,76
+142;RUE SAINT-HONORE;75001;75101;Paris 1er Arrondissement;41.9;4;Local industriel. commercial ou assimilé;45;0;2.340614;48.861954;€730 088,53
+2;RUE M. ELEONORE DE BELLEFOND;75009;75109;Paris 9e Arrondissement;22.33;4;Local industriel. commercial ou assimilé;23;0;2.348939;48.877554;€370 866,94
+137;RUE DU TEMPLE;75003;75103;Paris 3e Arrondissement;31.98;4;Local industriel. commercial ou assimilé;38;0;2.358188;48.863822;€624 879,99
+174;RUE DE BELLEVILLE;75020;75120;Paris 20e Arrondissement;33.15;4;Local industriel. commercial ou assimilé;50;0;2.392621;48.875197;€595 779,42
+11;RUE DE BERRI;75008;75108;Paris 8e Arrondissement;41.56;4;Local industriel. commercial ou assimilé;75;0;2.303752;48.872624;€975 157,54
+13;RUE BOINOD;75018;75118;Paris 18e Arrondissement;25.17;4;Local industriel. commercial ou assimilé;36;0;2.350066;48.892941;€472 520,23
+11;BD SAINT MARTIN;75003;75103;Paris 3e Arrondissement;10.0;4;Local industriel. commercial ou assimilé;34;0;2.360851;48.867802;€582 254,42
+100;RUE DE BELLEVILLE;75020;75120;Paris 20e Arrondissement;26.17;4;Local industriel. commercial ou assimilé;30;0;2.386369;48.874124;€382 651,53
+122;BD HAUSSMANN;75008;75108;Paris 8e Arrondissement;48.1;4;Local industriel. commercial ou assimilé;50;0;2.31812;48.875212;€708 747,67
+146;RUE DE COURCELLES;75017;75117;Paris 17e Arrondissement;26.42;4;Local industriel. commercial ou assimilé;36;0;2.299955;48.88279;€491 662,94
+16;RUE MOUTON DUVERNET;75014;75114;Paris 14e Arrondissement;58.03;4;Local industriel. commercial ou assimilé;65;0;2.328372;48.831932;€788 960,53
+11;RUE DE NICE;75011;75111;Paris 11e Arrondissement;116.3;4;Local industriel. commercial ou assimilé;121;0;2.39039;48.854824;€1 399 308,98
+10;BD DES FILLES CALVAIRE;75011;75111;Paris 11e Arrondissement;96.05;4;Local industriel. commercial ou assimilé;97;0;2.36755;48.861239;€1 143 555,51
+71;RUE DU THEATRE;75015;75115;Paris 15e Arrondissement;98.5;4;Local industriel. commercial ou assimilé;99;0;2.291495;48.847894;€1 146 596,01
+110;RUE DE SEVRES;75015;75115;Paris 15e Arrondissement;30.55;4;Local industriel. commercial ou assimilé;32;0;2.312297;48.845869;€432 617,57
+21;RUE DU DEPART;75014;75114;Paris 14e Arrondissement;28.44;4;Local industriel. commercial ou assimilé;30;0;2.3239;48.842079;€415 986,72
+107;RUE D ALESIA;75014;75114;Paris 14e Arrondissement;13.7;4;Local industriel. commercial ou assimilé;14;0;2.324622;48.828334;€245 484,41
+15;RUE GEORGES BIZET;75016;75116;Paris 16e Arrondissement;75.98;4;Local industriel. commercial ou assimilé;77;0;2.297686;48.867088;€948 906,73
+16;RUE CORTAMBERT;75016;75116;Paris 16e Arrondissement;28.57;4;Local industriel. commercial ou assimilé;45;0;2.280029;48.862352;€607 902,10
+10;RUE DOMAT;75005;75105;Paris 5e Arrondissement;130.56;4;Local industriel. commercial ou assimilé;157;0;2.347104;48.850909;€1 878 401,35
+15;RUE GUYTON DE MORVEAU;75013;75113;Paris 13e Arrondissement;74.42;4;Local industriel. commercial ou assimilé;83;0;2.347941;48.824756;€954 587,61
+15;RUE GUYTON DE MORVEAU;75013;75113;Paris 13e Arrondissement;74.47;4;Local industriel. commercial ou assimilé;80;0;2.347941;48.824756;€922 618,42
+41;AV DU GENERAL LECLERC;75014;75114;Paris 14e Arrondissement;40.16;4;Local industriel. commercial ou assimilé;55;0;2.329379;48.830248;€682 396,59
+12;BD DE REUILLY;75012;75112;Paris 12e Arrondissement;11.28;4;Local industriel. commercial ou assimilé;13;0;2.390803;48.838836;€214 373,73
+12;RUE ANTOINE ROUCHER;75016;75116;Paris 16e Arrondissement;81.45;4;Local industriel. commercial ou assimilé;84;0;2.270813;48.847354;€1 023 501,49
+21;RUE LEON FROT;75011;75111;Paris 11e Arrondissement;98.02;4;Local industriel. commercial ou assimilé;109;0;2.387316;48.854328;€1 271 432,25
+231;RUE DE CHARENTON;75012;75112;Paris 12e Arrondissement;28.32;4;Local industriel. commercial ou assimilé;31;0;2.390832;48.837868;€406 188,83
+3;RUE DANTON;75006;75106;Paris 6e Arrondissement;283.18;4;Local industriel. commercial ou assimilé;286;0;2.342743;48.852638;€3 326 207,37
+1;RUE EUGENE LABICHE;75016;75116;Paris 16e Arrondissement;58.17;4;Local industriel. commercial ou assimilé;70;0;2.27209;48.862821;€874 311,96
+13;RUE SAINT NICOLAS;75012;75112;Paris 12e Arrondissement;20.68;4;Local industriel. commercial ou assimilé;21;0;2.374244;48.851103;€299 624,88
+91;RUE RAYMOND LOSSERAND;75014;75114;Paris 14e Arrondissement;11.0;4;Local industriel. commercial ou assimilé;12;0;2.317571;48.833325;€224 171,62
+19;RUE DU DRAGON;75006;75106;Paris 6e Arrondissement;31.69;4;Local industriel. commercial ou assimilé;49;0;2.331029;48.852891;€800 641,85
+121;BD DU MONTPARNASSE;75006;75106;Paris 6e Arrondissement;20.92;4;Local industriel. commercial ou assimilé;21;0;2.330824;48.841938;€502 262,80
+121;BD DU MONTPARNASSE;75006;75106;Paris 6e Arrondissement;17.82;4;Local industriel. commercial ou assimilé;19;0;2.330824;48.841938;€480 950,01
+159;RUE SAINT CHARLES;75015;75115;Paris 15e Arrondissement;32.4;4;Local industriel. commercial ou assimilé;38;0;2.282068;48.842262;€496 555,94
+16;RUE MOUTON DUVERNET;75014;75114;Paris 14e Arrondissement;28.32;4;Local industriel. commercial ou assimilé;33;0;2.328372;48.831932;€447 955,90
+1;RUE DAGORNO;75012;75112;Paris 12e Arrondissement;91.85;4;Local industriel. commercial ou assimilé;93;0;2.398343;48.842548;€1 066 885,30
+19;RUE DE LA BUTTE AUX CAILLES;75013;75113;Paris 13e Arrondissement;35.65;4;Local industriel. commercial ou assimilé;38;0;2.349754;48.827308;€475 049,85
+113;RUE SAINT MAUR;75011;75111;Paris 11e Arrondissement;95.04;4;Local industriel. commercial ou assimilé;147;0;2.3767;48.865937;€1 676 375,24
+3;RUE LAROCHELLE;75014;75114;Paris 14e Arrondissement;23.8;4;Local industriel. commercial ou assimilé;45;0;2.323801;48.839147;€575 832,64
+13;RUE DUPIN;75006;75106;Paris 6e Arrondissement;21.65;4;Local industriel. commercial ou assimilé;25;0;2.325589;48.849763;€544 888,38
+125;RUE DE LA POMPE;75016;75116;Paris 16e Arrondissement;65.56;4;Local industriel. commercial ou assimilé;90;0;2.279425;48.86636;€1 087 439,86
+12;RUE DEGAS;75016;75116;Paris 16e Arrondissement;39.97;4;Local industriel. commercial ou assimilé;45;0;2.274356;48.849152;€607 902,10
+109;BD VOLTAIRE;75011;75111;Paris 11e Arrondissement;41.32;4;Local industriel. commercial ou assimilé;47;0;2.380968;48.857662;€610 735,78
+10;RUE VERONESE;75013;75113;Paris 13e Arrondissement;25.06;4;Local industriel. commercial ou assimilé;30;0;2.354532;48.833919;€389 798,69
+15;RUE DES BELLES FEUILLES;75016;75116;Paris 16e Arrondissement;83.1;4;Local industriel. commercial ou assimilé;120;0;2.282277;48.866256;€1 407 131,69
+15;RUE DES BELLES FEUILLES;75016;75116;Paris 16e Arrondissement;15.6;4;Local industriel. commercial ou assimilé;58;0;2.282277;48.866256;€746 435,23
+3;RUE DE L ABBE GREGOIRE;75006;75106;Paris 6e Arrondissement;27.0;4;Local industriel. commercial ou assimilé;38;0;2.323658;48.849685;€683 421,51
+2;AV PAUL DOUMER;75016;75116;Paris 16e Arrondissement;13.28;4;Local industriel. commercial ou assimilé;20;0;2.284356;48.861611;€341 492,23
+178;RUE DE GRENELLE;75007;75107;Paris 7e Arrondissement;48.52;4;Local industriel. commercial ou assimilé;70;0;2.306872;48.858206;€1 004 039,67
+21;RUE DU DEPART;75014;75114;Paris 14e Arrondissement;36.16;4;Local industriel. commercial ou assimilé;39;0;2.3239;48.842079;€511 894,27
+11;RUE DE LA CLEF;75005;75105;Paris 5e Arrondissement;60.4;4;Local industriel. commercial ou assimilé;94;0;2.353144;48.839709;€1 207 048,49
+10;RUE DES DEUX GARES;75010;75110;Paris 10e Arrondissement;19.2;4;Local industriel. commercial ou assimilé;20;0;2.357735;48.878591;€301 714,64
+14;RUE DE MAUBEUGE;75009;75109;Paris 9e Arrondissement;43.17;4;Local industriel. commercial ou assimilé;80;0;2.341903;48.876672;€978 281,43
+135;RUE DU FG POISSONNIERE;75009;75109;Paris 9e Arrondissement;77.34;4;Local industriel. commercial ou assimilé;80;0;2.349094;48.879082;€978 281,43
+1;RUE LUCIEN SAMPAIX;75010;75110;Paris 10e Arrondissement;45.3;4;Local industriel. commercial ou assimilé;78;0;2.35955;48.87074;€919 785,52
+13;RUE DU RENDEZ VOUS;75012;75112;Paris 12e Arrondissement;26.7;4;Local industriel. commercial ou assimilé;32;0;2.40404;48.845262;€416 845,23
+112;RUE DE CHARENTON;75012;75112;Paris 12e Arrondissement;95.61;4;Local industriel. commercial ou assimilé;100;0;2.377745;48.846902;€1 141 480,06
+16;RUE GODEFROY CAVAIGNAC;75011;75111;Paris 11e Arrondissement;31.27;4;Local industriel. commercial ou assimilé;35;0;2.381611;48.854893;€482 859,05
+104;BD DIDEROT;75012;75112;Paris 12e Arrondissement;20.1;4;Local industriel. commercial ou assimilé;41;0;2.385759;48.847;€512 752,78
+104;BD DIDEROT;75012;75112;Paris 12e Arrondissement;43.8;4;Local industriel. commercial ou assimilé;87;0;2.385759;48.847;€1 002 946,93
+102;QUAI DE LA RAPEE;75012;75112;Paris 12e Arrondissement;77.8;4;Local industriel. commercial ou assimilé;118;0;2.367324;48.846564;€1 333 295,16
+104;BD VOLTAIRE;75011;75111;Paris 11e Arrondissement;38.5;4;Local industriel. commercial ou assimilé;42;0;2.376881;48.859112;€557 453,81
+104;BD VOLTAIRE;75011;75111;Paris 11e Arrondissement;38.5;4;Local industriel. commercial ou assimilé;42;0;2.376881;48.859112;€557 453,81
+1;RUE VULPIAN;75013;75113;Paris 13e Arrondissement;14.49;4;Local industriel. commercial ou assimilé;28;0;2.346936;48.832376;€368 485,90
+3;RUE DU BANQUIER;75013;75113;Paris 13e Arrondissement;82.04;4;Local industriel. commercial ou assimilé;84;0;2.357956;48.836147;€965 244,00
+10;RUE VERONESE;75013;75113;Paris 13e Arrondissement;17.05;4;Local industriel. commercial ou assimilé;23;0;2.354532;48.833919;€315 203,93
+15;RUE DE TOLBIAC;75013;75113;Paris 13e Arrondissement;25.7;4;Local industriel. commercial ou assimilé;27;0;2.374847;48.829257;€357 829,51
+224;RUE DE VAUGIRARD;75015;75115;Paris 15e Arrondissement;58.58;4;Local industriel. commercial ou assimilé;82;0;2.305123;48.840868;€965 437,30
+3;RUE DE L ARRIVEE;75015;75115;Paris 15e Arrondissement;28.37;4;Local industriel. commercial ou assimilé;31;0;2.322946;48.843046;€421 961,18
+51;PL SAINT CHARLES;75015;75115;Paris 15e Arrondissement;45.24;4;Local industriel. commercial ou assimilé;46;0;2.28827;48.849141;€581 807,10
+3;RUE D OUESSANT;75015;75115;Paris 15e Arrondissement;55.27;4;Local industriel. commercial ou assimilé;60;0;2.296891;48.850411;€730 996,62
+13;RUE SPONTINI;75016;75116;Paris 16e Arrondissement;105.17;4;Local industriel. commercial ou assimilé;106;0;2.27866;48.869794;€1 257 942,17
+131;AV DE VERSAILLES;75016;75116;Paris 16e Arrondissement;51.61;4;Local industriel. commercial ou assimilé;58;0;2.269289;48.842643;€746 435,23
+31;RUE DURET;75016;75116;Paris 16e Arrondissement;23.47;4;Local industriel. commercial ou assimilé;27;0;2.286348;48.87551;€416 087,00
+1;RUE ALPHONSE DE NEUVILLE;75017;75117;Paris 17e Arrondissement;39.72;4;Local industriel. commercial ou assimilé;40;0;2.302627;48.885453;€534 288,52
+11;RUE DE PRONY;75017;75117;Paris 17e Arrondissement;50.05;4;Local industriel. commercial ou assimilé;52;0;2.30695;48.880815;€662 165,25
+231;BD PEREIRE;75017;75117;Paris 17e Arrondissement;49.3;4;Local industriel. commercial ou assimilé;78;0;2.287973;48.879475;€939 231,51
+16;PAS CARDINET;75017;75117;Paris 17e Arrondissement;21.16;4;Local industriel. commercial ou assimilé;28;0;2.311629;48.886148;€406 411,78
+3;RUE DES ABBESSES;75018;75118;Paris 18e Arrondissement;99.19;4;Local industriel. commercial ou assimilé;101;0;2.339175;48.883638;€1 165 185,88
+1;RUE ORDENER;75018;75118;Paris 18e Arrondissement;54.42;4;Local industriel. commercial ou assimilé;55;0;2.359457;48.890117;€674 991,73
+16;QUAI DE LA MARNE;75019;75119;Paris 19e Arrondissement;21.15;4;Local industriel. commercial ou assimilé;23;0;2.381972;48.889029;€291 004,98
+142;AV JEAN JAURES;75019;75119;Paris 19e Arrondissement;83.12;4;Local industriel. commercial ou assimilé;85;0;2.386551;48.886777;€951 701,44
+15;AV DE LAUMIERE;75019;75119;Paris 19e Arrondissement;14.12;4;Local industriel. commercial ou assimilé;16;0;2.38045;48.883397;€216 410,22
+3;RUE SAINT-JOSEPH;75002;75102;Paris 2e Arrondissement;14.1;4;Local industriel. commercial ou assimilé;15;0;2.34511;48.868196;€337 576,69
+2;RUE GRETRY;75002;75102;Paris 2e Arrondissement;34.85;4;Local industriel. commercial ou assimilé;35;0;2.337593;48.870514;€550 704,58
+115;RUE D ABOUKIR;75002;75102;Paris 2e Arrondissement;41.61;4;Local industriel. commercial ou assimilé;49;0;2.349804;48.868784;€699 894,11
+16;RUE AUBRIOT;75004;75104;Paris 4e Arrondissement;20.4;4;Local industriel. commercial ou assimilé;37;0;2.357412;48.858715;€654 787,43
