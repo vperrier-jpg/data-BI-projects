@@ -1,0 +1,258 @@
+-- Requête 1
+SELECT COUNT(*) AS Nombre_Retours_Livraison
+FROM retour_client
+WHERE libelle_categorie = 'livraison';
+
+
+-- Requête 2
+SELECT
+    T2.titre_produit AS Titre_du_Produit,
+    T1.libelle_source AS Source_du_Retour,
+    T1.note AS Note_Client
+FROM
+    retour_client AS T1
+JOIN
+    produit AS T2 ON T1.cle_produit = T2.cle_produit
+WHERE
+    T1.libelle_source = 'réseaux sociaux'
+    AND T2.typologie_produit = 'High-Tech'
+    AND T2.titre_produit = 'TV';
+
+-- Requête 3
+SELECT
+    libelle_categorie,
+    AVG(note) AS Note_Moyenne
+FROM retour_client
+GROUP BY libelle_categorie
+ORDER BY Note_Moyenne DESC;
+
+
+-- Requête 4
+SELECT
+    ref_magasin,
+    AVG(note) AS Note_Moyenne_Magasin
+FROM retour_client
+GROUP BY ref_magasin
+ORDER BY Note_Moyenne_Magasin DESC
+LIMIT 5;
+
+
+-- Requête 5
+SELECT
+    ref_magasin AS Référence_Magasin,
+    COUNT(*) AS Nombre_Feedbacks_Drive
+FROM
+    retour_client
+WHERE
+    libelle_categorie = 'drive'
+GROUP BY
+    ref_magasin
+HAVING
+    COUNT(*) > 12
+ORDER BY
+    Nombre_Feedbacks_Drive DESC;
+
+
+-- Requête 6
+SELECT
+    T2.departement AS Département,
+    AVG(T1.note) AS Note_Moyenne
+FROM
+    retour_client AS T1
+JOIN
+    ref_magasin AS T2 ON T1.ref_magasin = T2.ref_magasin 
+GROUP BY
+    Département
+ORDER BY
+    Note_Moyenne DESC;
+
+
+-- Requête 7
+SELECT
+    T2.typologie_produit,
+    AVG(T1.note) AS Note_Moyenne
+FROM
+    retour_client AS T1
+JOIN
+    produit AS T2 ON T1.cle_produit = T2.cle_produit
+WHERE
+    T1.libelle_categorie = 'service après-vente'
+GROUP BY
+    T2.typologie_produit
+ORDER BY
+    Note_Moyenne DESC
+LIMIT 1;
+
+
+-- Requête 8
+SELECT
+    AVG(T1.note) AS Note_Moyenne_Boissons
+FROM
+    retour_client AS T1
+JOIN
+    produit AS T2 ON T1.cle_produit = T2.cle_produit
+WHERE
+    T2.typologie_produit = 'Alimentaire'
+    AND (
+        T2.titre_produit LIKE '%Boissons%'
+        OR T2.titre_produit LIKE '%Bières%'
+        OR T2.titre_produit LIKE '%Sodas%'
+        OR T2.titre_produit LIKE '%Cafés%'
+    );
+
+
+-- Requête 9
+SELECT
+    TO_CHAR(date_achat, 'Day') AS Jour_Semaine,
+    AVG(note) AS Note_Moyenne
+FROM
+    retour_client
+WHERE
+    libelle_categorie = 'expérience en magasin'
+GROUP BY
+    Jour_Semaine
+ORDER BY
+    Note_Moyenne DESC;
+
+
+-- Requête 10
+SELECT
+    TO_CHAR(date_achat, 'YYYY-MM') AS Annee_Mois,
+    COUNT(*) AS Nombre_Retours
+FROM
+    retour_client
+WHERE
+    libelle_categorie = 'service après-vente'
+GROUP BY
+    Annee_Mois
+ORDER BY
+    Nombre_Retours DESC
+LIMIT 1;
+
+
+-- Requête 11
+SELECT
+    (
+     CAST(SUM(CASE WHEN recommandation = '1' THEN 1 ELSE 0 END) AS REAL)
+        * 100
+    ) / COUNT(*) AS Pourcentage_Recommandation
+FROM
+    retour_client;
+
+
+-- Requête 12
+SELECT
+    ref_magasin AS Référence_Magasin,
+    AVG(note) AS Note_Moyenne_Magasin
+FROM
+    retour_client
+GROUP BY
+    ref_magasin
+HAVING
+    AVG(note) < (SELECT AVG(note) FROM retour_client)
+ORDER BY
+    Note_Moyenne_Magasin ASC;
+
+-- Requête 13
+
+WITH Moyenne_T1 AS (
+    SELECT
+        T2.typologie_produit,
+        AVG(T1.note) AS M_T1
+    FROM
+        retour_client AS T1
+    JOIN
+        produit AS T2 ON T1.cle_produit = T2.cle_produit
+    WHERE
+        T1.date_achat BETWEEN '2021-01-01' AND '2021-03-31'
+    GROUP BY
+        T2.typologie_produit
+),
+Moyenne_T2 AS (
+    SELECT
+        T2.typologie_produit,
+        AVG(T1.note) AS M_T2
+    FROM
+        retour_client AS T1
+    JOIN
+        produit AS T2 ON T1.cle_produit = T2.cle_produit
+    WHERE
+        T1.date_achat BETWEEN '2021-04-01' AND '2021-06-30'
+    GROUP BY
+        T2.typologie_produit
+)
+SELECT
+    T2.typologie_produit AS Typologie_Produit_Améliorée,
+    T1.M_T1 AS Note_Moyenne_T1,
+    T2.M_T2 AS Note_Moyenne_T2,
+    (T2.M_T2 - T1.M_T1) AS Différence
+FROM
+    Moyenne_T2 AS T2
+JOIN
+    Moyenne_T1 AS T1 ON T1.typologie_produit = T2.typologie_produit
+WHERE
+    T2.M_T2 > T1.M_T1
+ORDER BY
+    Différence DESC;
+
+
+-- Requête 14
+SELECT
+    (
+        (
+            CAST(SUM(CASE WHEN note >= 9 THEN 1 ELSE 0 END) AS REAL) 
+            - CAST(SUM(CASE WHEN note <= 6 THEN 1 ELSE 0 END) AS REAL)
+        )
+        * 100
+    ) / COUNT(note) AS NPS_Score 
+FROM
+    retour_client
+WHERE
+    note IS NOT NULL;
+
+
+-- Requête 15
+SELECT
+    libelle_source AS Source_Retour,
+    (
+        (
+            CAST(SUM(CASE WHEN note >= 9 THEN 1 ELSE 0 END) AS REAL) 
+            - CAST(SUM(CASE WHEN note <= 6 THEN 1 ELSE 0 END) AS REAL)
+        )
+        * 100
+    ) / COUNT(note) AS NPS_Par_Source
+FROM
+    retour_client
+WHERE
+    note IS NOT NULL
+GROUP BY
+    libelle_source
+ORDER BY
+    NPS_Par_Source DESC;
+
+
+-- Requête 16
+SELECT
+    libelle_source AS Source_Retour,
+    COUNT(*) AS Nombre_Retours
+FROM
+    retour_client
+GROUP BY
+    libelle_source
+ORDER BY
+    Nombre_Retours DESC;
+
+
+-- Requête 17
+SELECT
+    ref_magasin AS Référence_Magasin,
+    COUNT(*) AS Nombre_Feedbacks
+FROM
+    retour_client
+GROUP BY
+    ref_magasin
+ORDER BY
+    Nombre_Feedbacks DESC
+LIMIT 5;
+
+
